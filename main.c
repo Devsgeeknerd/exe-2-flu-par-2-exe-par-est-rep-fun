@@ -47,7 +47,7 @@ void main()
             else
             {
                 // Caso contrário, não é primo.
-                printf("O numero %d nao e primo.\n", numero1);
+                printf("O numero %d não e primo.\n", numero1);
             }
             // Reseta o contador 'divisao' para o próximo número.
             divisao = 0; 
